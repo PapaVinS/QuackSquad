@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![](C:\Users\HP\Documents\GitHub\QuackSquad\QS-Logo.png)
+[Link](url) and ![](C:\Users\HP\Documents\GitHub\QuackSquad)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
